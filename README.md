@@ -1,37 +1,7 @@
-## Welcome to GitHub Pages
+## How many weekends do you have?
 
-You can use the [editor on GitHub](https://github.com/victorfdes/weekends-react.js/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This one project was something I was inspired to build after watching the [TED Talk](https://www.ted.com/talks/tim_urban_inside_the_mind_of_a_master_procrastinator) by Tim Urban. At the end of the talk he shows us a chart that he calls the Life Calendar. That really got me thinking about how few weekends do we all have. We all tend to live our life in weeks and it sort of feels okay to delay that weekend trip with family or that party you always wanted to have at your place to the next week since well, we sort of have an unlimited weekend supply isn’t it? Well it turns out our weekends are quite limited and definitely countable.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+You may [preview the project here](https://victorfdes.github.io/weekends-react.js/). Feel free to bookmark this tool and stay motivated.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/victorfdes/weekends-react.js/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+For more details see [my blog post](https://victor-fernandes.com/how-many-weekends-do-i-have/).
