@@ -1,0 +1,41 @@
+body {
+    background-image: url(../images/background.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+/*
+  Materialize Overrides
+*/
+
+input[type=number]:not(.browser-default):focus:not([readonly]){
+    border-bottom: 0px solid #26a69a;
+    -webkit-box-shadow: 0 0px 0 0 #26a69a;
+    box-shadow: 0 0px 0 0 #26a69a;
+}
+.container{
+  margin-top: 35px;
+}
+.infoBoxLeft{
+  min-height: 103px;
+}
+
+.weekend-box {
+  float: left;
+  width: 5px;
+  height: 5px;
+  background: #8AFF83;
+  border: 1px solid #424242;
+  margin-right: 4px;
+  margin-bottom: 4px;
+}
+.past {
+    background: #F72929;
+}
+
+.weekend-box-container{
+  display: flex;
+  flex-wrap: wrap;
+}
