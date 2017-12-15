@@ -61,15 +61,15 @@ export default class App extends Component {
       }
     );
     var dateInCookie = Intl.DateTimeFormat('en-US').format(birthDate);
-    DateCookie.set('birthDate', dateInCookie, { path: '/' });
-    DateCookie.set('weekendsLived', weekends, { path: '/' });
-    DateCookie.set('actualAge', actualAge, { path: '/' });
+    DateCookie.set('birthDate', dateInCookie, { path: '/', maxAge: 31536000 });
+    DateCookie.set('weekendsLived', weekends, { path: '/', maxAge: 31536000 });
+    DateCookie.set('actualAge', actualAge, { path: '/', maxAge: 31536000 });
 
 
   }
   handleAgeChange(setAge){
     this.setState({setAge: setAge});
-    DateCookie.set('setAge', setAge, { path: '/' });
+    DateCookie.set('setAge', setAge, { path: '/', maxAge: 31536000 });
   }
 
   render() {
