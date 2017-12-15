@@ -73,10 +73,10 @@ export default class App extends Component {
   }
 
   render() {
-    console.log("In App: actualAge " + this.state.actualAge);
+    //console.log("In App: actualAge " + this.state.actualAge);
     //console.log("In App: birthDate " + this.state.birthDate);
     //console.log("In App: weekendsLived " + this.state.weekendsLived);
-    console.log("In App: setAge " + this.state.setAge);
+    //console.log("In App: setAge " + this.state.setAge);
     return (
       <MuiThemeProvider>
         <div>
